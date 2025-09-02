@@ -61,7 +61,18 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Faculty Identity Colors
+				faculty: {
+					yellow: '#FFDD00',
+					black: '#000000',
+					gray: '#808080',
+					white: '#FFFFFF',
+					purple: '#8A2BE2',
+					'purple-light': '#D6BCFA',
+					'gray-dark': '#404040',
+					'gray-light': '#C0C0C0',
+				},
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
